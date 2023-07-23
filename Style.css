@@ -1,0 +1,56 @@
+.container{
+    font-family: "Roboto", sans-serif; 
+     width:100%;  
+     position: absolute;
+     top: 0;
+     background-color: #86cdf7;
+     height:100vh;
+  }
+  h2{
+    text-align: center;
+  }
+  #form{
+    text-align: center;
+    border: 2px solid red;
+    padding: 20px;
+    border-radius: 22px ;
+    width: 400px;
+    height: 450PX;
+    margin-left: 33%;
+    background-color: aqua;
+  }
+  input{
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    height: 20px;
+    font-size: 13px;
+  }
+  input:hover{
+  background-color: rgb(255, 109, 121);
+  font-weight: 600;
+  }
+  .OTPbtn{
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+    border: none;
+  }
+  .OTPbtn:hover{
+    background-color: rgb(169, 255, 169);
+    font-weight: bolder;
+  }
+  .OTP input{
+    width: 65px;
+  }
+  .submitBtn:hover{
+    background-color: rgb(169, 255, 169);
+    font-weight: bolder;
+  }
+  .submitBtn{
+    width: 100px;
+    height: 25px; }
+                                                                      
+  
+  
